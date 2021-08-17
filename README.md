@@ -28,35 +28,14 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnsonr84&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rob's GitHub Stats" />
 </a>
 
-## Tech & Toolbox 🛠 
-  <table>
-    <tr>
-        <td>Languages</td>
-        <td>Databases</td>
-        <td>Frameworks</td>
-        <td>Libraries</td>
-    </tr>
-    <tr>
-        <td>
-        https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=EFD81D
-        </td>
-          <td>
-        (https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=50AE3F)
-        </td>
-          <td>
-        (https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=F79F17)
-        </td>
-          <td>
-        ![](https://img.shields.io/badge/Code-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=EFD81D)
-        </td>
-    </tr>
-  </table> 
-<!-- 
+## Tech & Toolbox 🛠  
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=50AE3F)
 ![](https://img.shields.io/badge/Framework-Express.JS-informational?style=flat&logo=express&logoColor=white&color=EAEAEA)
 ![](https://img.shields.io/badge/Code-React.JS-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
-![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=node.js&logoColor=white&color=86BE00) -->
-
-
+![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=node.js&logoColor=white&color=86BE00)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=EFD81D)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=F79F17)
+![](https://img.shields.io/badge/Libraries-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=F79F17)
 
 ## Certifications 🏆
 * University of Utah - Full Stack Engineering 
