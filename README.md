@@ -22,3 +22,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/johnsonr84">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnsonr84&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Express.JS-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React.JS-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
