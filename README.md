@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
         <td>
-        (https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=EFD81D)
+        https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=EFD81D
         </td>
           <td>
         (https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=50AE3F)
