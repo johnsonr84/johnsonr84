@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- Social Links & Contact -->
-![](<a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>)
-![](<a href="https://www.devdork.com/" target="blank"><img src="https://img.shields.io/website-up-down-green-red/http/devdork.com.svg" height=30></a>)
+(<a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
+<a href="https://www.devdork.com/" target="blank"><img src="https://img.shields.io/website-up-down-green-red/http/devdork.com.svg" height=30></a>
   
 ## Github Stats               
 <!-- Github Stats -->
