@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Social Links & Contact -->
-(<a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
+<a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
 <a href="https://www.devdork.com/" target="blank"><img src="https://img.shields.io/website-up-down-green-red/http/devdork.com.svg" height=30></a>
   
 ## Github Stats               
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/photoshop.svg/Photoshop-23A5F7?style=for-the-badge&logo=photoshop&logoColor=white)
-![](https://aleen42.github.io/badges/src/photoshop.svg) 
+![](https://aleen42.github.io/badges/style=for-the-badge/src/photoshop.svg) 
 ![](https://aleen42.github.io/badges/src/illustrator.svg)
 ![](https://aleen42.github.io/badges/src/xd.svg)
 ![](https://img.shields.io/badge/Apple-MacBook_Pro_2021-999999?style=for-the-badge&logo=apple&logoColor=white)
