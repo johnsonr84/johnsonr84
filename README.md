@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 
 <!-- Social Links & Contact -->
 <a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
+
+![](https://img.shields.io/website-up-down-green-red/http/devdork.com.svg website:https://www.devdork.com/)
+
 <a href="https://www.devdork.com/" target="blank"><img src="https://img.shields.io/badge/Devdork.com-%2361DAFB.svg?&style=for-the-badge&logo=Devdork.com&logoColor=white" height=30></a>
   
 ## Github Stats               
@@ -28,20 +31,26 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnsonr84&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rob's GitHub Stats" />
 </a>
 
-## Tech & Toolbox 🛠  
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=50AE3F)
-![](https://img.shields.io/badge/Framework-Express.JS-informational?style=flat&logo=express&logoColor=white&color=EAEAEA)
-![](https://img.shields.io/badge/Code-React.JS-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
-![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=node.js&logoColor=white&color=86BE00)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=EFD81D)
+## Tech Toolbox 🛠  
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Express.js-EAEAEA?style=for-the-badge)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Node.js-86BE00?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=F79F17)
-![](https://img.shields.io/badge/Libraries-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=1469AD)
-![](https://img.shields.io/badge/Libraries-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=7952B3)
-![](https://img.shields.io/badge/Libraries-Sass-informational?style=flat&logo=sass&logoColor=white&color=BF4080)
+![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Markdown-F71A4A?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![](https://aleen42.github.io/badges/src/photoshop.svg) 
 ![](https://aleen42.github.io/badges/src/illustrator.svg)
-![](https://img.shields.io/badge/Design-AdobeAi-informational?style=flat&logo=illustrator&logoColor=white&color=F79501)
-![](https://img.shields.io/badge/Design-AdobePs-informational?style=flat&logo=photoshop&logoColor=white&color=2FA3F7)
-![](https://img.shields.io/badge/Design-AdobeXd-informational?style=flat&logo=photoshop&logoColor=white&color=F75EEE)
+![](https://aleen42.github.io/badges/src/xd.svg)
+![](https://img.shields.io/badge/Apple-MacBook_Pro_2021-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 ## Certifications 🏆
 * University of Utah - Full Stack Engineering 
