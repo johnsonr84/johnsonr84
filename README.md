@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Express.JS-informational?style=flat&logo=express.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React.JS-informational?style=flat&logo=react.js&logoColor=white&color=#61DAFB)
+![](https://img.shields.io/badge/Code-Express.JS-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React.JS-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
