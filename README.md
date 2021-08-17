@@ -1,4 +1,4 @@
-# Heyo! <img src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/master/wave.gif" width="30px">
+# Heyo! <img src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/master/wave.gif" width="30px"> - I'm Rob
 <!--
 **johnsonr84/johnsonr84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- Social Links & Contact -->
+<a href="https://www.linkedin.com/in/robertjohnson1984/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+
+## Github Stats 📈
 <!-- Github Stats -->
 <a href="https://github.com/johnsonr84/johnsonr84">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonr84&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -23,10 +27,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnsonr84&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-## 🔧 Tech & Toolbox
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=50AE3F)
-![](https://img.shields.io/badge/Code-Express.JS-informational?style=flat&logo=express&logoColor=white&color=EAEAEA)
+## Tech & Toolbox 🛠
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=50AE3F)
+![](https://img.shields.io/badge/Framework-Express.JS-informational?style=flat&logo=express&logoColor=white&color=EAEAEA)
 ![](https://img.shields.io/badge/Code-React.JS-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=node.js&logoColor=white&color=86BE00)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=EFD81D)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=F79F17)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=F79F17)
