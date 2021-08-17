@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 
 <!-- Social Links & Contact -->
 <a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
-<a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/website-up-down-green-red/http/devdork.com.svg" height=30></a>
-https://img.shields.io/website-up-down-green-red/http/devdork.com.svg website:https://www.devdork.com/
 
-<a href="https://www.devdork.com/" target="blank"><img src="https://img.shields.io/badge/Devdork.com-%2361DAFB.svg?&style=for-the-badge&logo=Devdork.com&logoColor=white" height=30></a>
+<a href="https://www.devdork.com/" target="blank"><img src="https://img.shields.io/DEVDORK-up-down-green-red/http/devdork.com.svg" height=30></a>
   
 ## Github Stats               
 <!-- Github Stats -->
@@ -46,7 +44,7 @@ https://img.shields.io/website-up-down-green-red/http/devdork.com.svg website:ht
 ![](https://img.shields.io/badge/MySQL-F79F17?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![](https://img.shields.io/badge/Photoshop-011732?style=for-the-badge&logo=photoshop&logoColor=white)
+![](https://img.shields.io/badge/photoshop.svg/Photoshop-23A5F7?style=for-the-badge&logo=photoshop&logoColor=white)
 ![](https://aleen42.github.io/badges/src/photoshop.svg) 
 ![](https://aleen42.github.io/badges/src/illustrator.svg)
 ![](https://aleen42.github.io/badges/src/xd.svg)
