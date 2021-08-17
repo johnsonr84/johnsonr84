@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=F79F17)
 
 ## Certifications 🏆
-* <img src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/master/uofu.png" width="30px"> University of Utah - Full Stack Engineering 
-* <img src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/master/tiy.png" width="30px"> The Iron Yard - Front End Engineering 
+* University of Utah - Full Stack Engineering 
+* The Iron Yard - Front End Engineering 
