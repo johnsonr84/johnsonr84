@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=node.js&logoColor=white&color=86BE00)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=EFD81D)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=F79F17)
-![](https://img.shields.io/badge/Libraries-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=F79F17)
+![](https://img.shields.io/badge/Libraries-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=1469AD)
 
 ## Certifications 🏆
 * University of Utah - Full Stack Engineering 
