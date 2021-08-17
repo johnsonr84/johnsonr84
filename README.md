@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Heyo! <img src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/master/wave.gif" width="30px">
 <!--
 **johnsonr84/johnsonr84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
