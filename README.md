@@ -38,13 +38,13 @@ Here are some ideas to get you started:
     </tr>
     <tr>
         <td>
-        ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=EFD81D)
+        (https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=EFD81D)
         </td>
           <td>
-        ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=50AE3F)
+        (https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=50AE3F)
         </td>
           <td>
-        ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=F79F17)
+        (https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=F79F17)
         </td>
           <td>
         ![](https://img.shields.io/badge/Code-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=EFD81D)
