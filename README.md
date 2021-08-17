@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 -->
 
 <!-- Social Links & Contact -->
-<a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
-<a href="https://www.devdork.com/" target="blank"><img src="https://img.shields.io/website-up-down-green-red/http/devdork.com.svg" height=30></a>
+<a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="mailto:robertcjohnson1984@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="https://www.devdork.com/" target="blank"><img src="https://img.shields.io/badge/DEVDORK-61DAFB?style=for-the-badge&logo=react&logoColor=white" height=30></a>
+<a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/badge/free%20code%20camp-0A457C?style=for-the-badge&logo=freecodecamp&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25></a>
   
 ## Github Stats               
 <!-- Github Stats -->
@@ -33,7 +38,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Express.js-4A4A55?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-86BE00?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,11 +49,14 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-F79F17?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![](https://img.shields.io/badge/firebase-F7C52C?style=for-the-badge&logo=firebase&logoColor=black)
+![](https://img.shields.io/badge/firebase-F7C52C?style=for-the-badge&logo=firebase&logoColor=white)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)
+![](https://img.shields.io/badge/MapBox-39ABC9?style=for-the-badge&logo=Mapbox&logoColor=white)
+![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
