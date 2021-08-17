@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Libraries-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=1469AD)
 ![](https://img.shields.io/badge/Libraries-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=7952B3)
 ![](https://img.shields.io/badge/Libraries-Sass-informational?style=flat&logo=sass&logoColor=white&color=BF4080)
-![](https://img.shields.io/badge/Design-AdobeAi-informational?style=flat&logo=adobeai&logoColor=white&color=F79501)
+![](https://img.shields.io/badge/Design-AdobeAi-informational?style=flat&logo=illustrator&logoColor=white&color=F79501)
+![](https://img.shields.io/badge/Design-AdobePs-informational?style=flat&logo=photoshop&logoColor=white&color=2FA3F7)
 
 ## Certifications 🏆
 * University of Utah - Full Stack Engineering 
