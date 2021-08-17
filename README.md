@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 
 <!-- Social Links & Contact -->
 <a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
-
-![](https://img.shields.io/website-up-down-green-red/http/devdork.com.svg website:https://www.devdork.com/)
+<a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/website-up-down-green-red/http/devdork.com.svg" height=30></a>
+https://img.shields.io/website-up-down-green-red/http/devdork.com.svg website:https://www.devdork.com/
 
 <a href="https://www.devdork.com/" target="blank"><img src="https://img.shields.io/badge/Devdork.com-%2361DAFB.svg?&style=for-the-badge&logo=Devdork.com&logoColor=white" height=30></a>
   
 ## Github Stats               
 <!-- Github Stats -->
-<a href="https://github.com/johnsonr84/johnsonr84">
+<!-- <a href="https://github.com/johnsonr84/johnsonr84">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonr84&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+</a> -->
 <!-- Top Languages -->
 <a href="https://github.com/johnsonr84">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnsonr84&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rob's GitHub Stats" />
