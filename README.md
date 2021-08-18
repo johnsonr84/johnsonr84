@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/johnsonr84/johnsonr84/master/readme_header.png "Header")](https://www.devdork.com/)
 
-# Heyo! <img src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/master/wave.gif" width="30px"> - I'm Rob
+<!-- # Heyo! <img src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/master/wave.gif" width="30px"> - I'm Rob -->
 <!--
 **johnsonr84/johnsonr84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
