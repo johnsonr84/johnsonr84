@@ -15,15 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- Social Links & Contact -->
-<a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="mailto:robertcjohnson1984@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-<a href="https://www.devdork.com/" target="blank"><img src="https://img.shields.io/badge/PORTFOLIO-61DAFB?style=for-the-badge&logo=react&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white" height=25></a>
-<!-- <a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/badge/free%20code%20camp-0A457C?style=for-the-badge&logo=freecodecamp&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25></a> -->
   
 ## Github Stats               
 <!-- Github Stats -->
@@ -34,6 +25,15 @@ Here are some ideas to get you started:
 <a href="https://github.com/johnsonr84">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnsonr84&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rob's GitHub Stats" />
 </a>
+
+<!-- Social Links & Contact -->
+<a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="mailto:robertcjohnson1984@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<!-- <a href="https://www.devdork.com/" target="blank"><img src="https://img.shields.io/badge/PORTFOLIO-61DAFB?style=for-the-badge&logo=react&logoColor=white" height=25></a> -->
+<a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white" height=25></a>
+<!-- <a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/badge/free%20code%20camp-0A457C?style=for-the-badge&logo=freecodecamp&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/robertjohnson1984/" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25></a> -->
 
 ## Tech Toolbox 🛠  
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
