@@ -3,7 +3,8 @@
 
 <!-- **johnsonr84/johnsonr84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# Hello My Fellow Code Ninjas! <img src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/master/ninja.gif" width="60px">  I'm Rob!
+# <img src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/master/ninja.gif" width="60px"> Hello My Fellow Code Ninjas! I'm Rob!
+## Full Stack Developer, Dog Father, Drummer, Skater and Martial Artist
   
 ## Github Stats 💻           
 <!-- Github Stats -->
