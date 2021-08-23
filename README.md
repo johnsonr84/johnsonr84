@@ -1,7 +1,9 @@
-[![Header](https://raw.githubusercontent.com/johnsonr84/johnsonr84/master/readme_header.png "Header")](https://www.devdork.com/)
+<!-- [![Header](https://raw.githubusercontent.com/johnsonr84/johnsonr84/master/readme_header.png "Header")](https://www.devdork.com/) -->
 
-<!--
-**johnsonr84/johnsonr84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **johnsonr84/johnsonr84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+# Hello My Fellow Code Ninjas! <img src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/master/ninja.gif" width="30px"> I'm Rob!
   
 ## Github Stats 💻           
 <!-- Github Stats -->
