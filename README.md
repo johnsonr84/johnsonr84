@@ -3,10 +3,10 @@
 
 <!-- **johnsonr84/johnsonr84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# Hello My Fellow Code Ninjas! <img src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/master/ninja.gif" width="60px"> 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=johnsonr84 alt=johnsonr84/> </p>
-  
-### I'm a Full Stack Developer, Dog Father, Drummer, Skater & Martial Artist         
+# Hello My Fellow Code Ninjas! <img src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/master/ninja.gif" width="60px"> <p align="right"> <img src=https://komarev.com/ghpvc/?username=johnsonr84 alt=johnsonr84/> </p>   
+
+### I'm a Full Stack Developer, Dog Father, Drummer, Skater & Martial Artist  
+    
 <!-- Github Stats -->
 <a href="https://github.com/johnsonr84">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnsonr84&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rob's GitHub Stats" />
