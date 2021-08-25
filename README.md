@@ -7,7 +7,8 @@
 
 ### I'm a Full Stack Developer, Dog Father, Drummer, Skater & Martial Artist  
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=johnsonr84 alt=johnsonr84/> </p> 
-- 💻 I am currently rebuilding [Devdork](https://www.devdork.com/) in react
+
+💻 I am currently rebuilding [Devdork](https://www.devdork.com/) in react
 
 <!-- Github Stats -->
 <span align="left"> <img height='150px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonr84&layout=compact&theme=react ' alt="johnsonr84" /> </span>
