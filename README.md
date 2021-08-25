@@ -3,7 +3,7 @@
 
 <!-- **johnsonr84/johnsonr84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# Hello My Fellow Code Ninjas! <img src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/master/ninja.gif" width="60px"> 
+# Hello My Fellow Code Ninjas! <img src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/master/ninja.gif" width="60px"> <p align="left"> <img src=https://komarev.com/ghpvc/?username=perfettiful alt=johnsonr84/> </p>
   
 ### I'm a Full Stack Developer, Dog Father, Drummer, Skater & Martial Artist         
 <!-- Github Stats -->
