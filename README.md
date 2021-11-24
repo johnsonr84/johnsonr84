@@ -67,7 +67,15 @@ I am currently rebuilding [Devdork](https://www.devdork.com/) in react 💻
 
 ## Certifications 🏆
 
-<img src="coding-bootcamp-full-stack-developer-certificate..png" height=100 alt="certificate badge">
-![University of Utah - Full Stack Engineering](https://www.credly.com/badges/c327e529-ea31-4921-91ae-662999d9664d/public_url)
+ <table>
+  <tr>
+    <td>University of Utah - Full Stack Engineering</td>
+    <td>The Iron Yard - Front End Engineering</td>
+  </tr>
+    <tr>
+    <td><img src="coding-bootcamp-full-stack-developer-certificate..png" height=200 alt="certificate badge"></td>
+    <td><img src="iron-yard.png" height=200 alt="screenshot of weather-dashboard"></td>
+  </tr>
+ </table>
 
-- The Iron Yard - Front End Engineering
+-
