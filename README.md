@@ -73,9 +73,7 @@ I am currently rebuilding [Devdork](https://www.devdork.com/) in react 💻
     <td>The Iron Yard - Front End Engineering</td>
   </tr>
     <tr>
-    <td><img src="coding-bootcamp-full-stack-developer-certificate..png" height=200 alt="certificate badge"></td>
+    <td><img src="uofutah.png" height=200 alt="certificate badge"></td>
     <td><img src="iron-yard.png" height=200 alt="screenshot of weather-dashboard"></td>
   </tr>
  </table>
-
--
