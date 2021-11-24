@@ -69,8 +69,8 @@ I am currently rebuilding [Devdork](https://www.devdork.com/) in react 💻
 
  <table>
   <tr>
-    <td>University of Utah - Full Stack Engineering</td>
-    <td>The Iron Yard - Front End Engineering</td>
+    <td>Full Stack Engineering</td>
+    <td>Front End Engineering</td>
   </tr>
     <tr>
     <td><img src="uofutah.png" height=200 alt="certificate badge"></td>
