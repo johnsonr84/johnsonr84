@@ -2,13 +2,13 @@
 
 <!-- **johnsonr84/johnsonr84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Hello My Fellow Code Ninjas! <img src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/master/ninja.gif" width="60px"> My name is Robert Johnson
+Hello Code Ninjas! <img src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/master/ninja.gif" width="60px"> [] I'm Rob
 ======================================================================================================================================
 
 Full Stack Software Developer
 ------------------------------------------
 
-* 🌍  I'm based in Colorado
+* 🌍  I'm based in Colorado 
 * ✉️  You can contact me at [devdork@gmail.com](mailto:devdork@gmail.com)
 * 🚀  I'm currently working on [Developing Platforms](http://comingsoon.com)
 * 🧠  I'm learning Angular & Ruby
@@ -157,4 +157,4 @@ I am currently rebuilding [Devdork](https://www.devdork.com/) in react 💻
     <td><img src="uofutah.png" height=200 alt="certificate badge"></td>
     <td><img src="iron-yard.png" height=200 alt="screenshot of weather-dashboard"></td>
   </tr>
- </table> --> -->
+ </table> --> 
