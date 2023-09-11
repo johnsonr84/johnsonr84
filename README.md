@@ -8,10 +8,10 @@ Hello Code Ninjas! <img src="https://raw.githubusercontent.com/johnsonr84/johnso
 Full Stack Software Developer
 ------------------------------------------
 
-* 🌍  I'm based in Colorado 
-* ✉️  You can contact me at [devdork@gmail.com](mailto:devdork@gmail.com)
+* 🌍  I'm based in Denver Colorado 
+* ✉️  You can contact me at [robertcjohnson1984@gmail.com](mailto:robertcjohnson1984@gmail.com)
 * 🚀  I'm currently working on [Developing Platforms](http://comingsoon.com)
-* 🧠  I'm learning Angular & Ruby
+* 🧠  I'm learning Angular & TypeScript
 * ⚡  Software Development by day Code Camp Teaching Assistant by night
 
 <a href="https://www.github.com/johnsonr84" target="_blank" rel="noreferrer"><img
