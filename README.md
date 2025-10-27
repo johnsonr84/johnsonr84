@@ -2,17 +2,17 @@
 
 <!-- **johnsonr84/johnsonr84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Hello Code Ninjas! <img src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/master/ninja.gif" width="60px">  I'm Rob
+Hello! I'm Rob
 ======================================================================================================================================
 
-Full Stack Software Developer
+Full Stack Software Engineer
 ------------------------------------------
 
 * 🌍  I'm based in Denver Colorado 
 * ✉️  You can contact me at [robertcjohnson1984@gmail.com](mailto:robertcjohnson1984@gmail.com)
 * 🚀  I'm currently working on [Developing Platforms](http://comingsoon.com)
-* 🧠  I'm learning Angular & TypeScript
-* ⚡  Software Development by day Code Camp Teaching Assistant by night
+* 🧠  I'm leveraging AI
+* ⚡  Software Development by day Code Camp Teaching Specialist
 
 <a href="https://www.github.com/johnsonr84" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/johnsonr84?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
