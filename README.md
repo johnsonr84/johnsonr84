@@ -11,7 +11,7 @@
 
 ## 👋 About Me
 
-I’m **Rob**, a Full Stack Engineer who builds **modern, scalable digital platforms** using technologies like **React, Next.js, Node.js, Python, and cloud-native tooling**.  
+I’m **Rob**, a Full Stack Engineer who builds **modern, scalable digital platforms and software** using technologies like **React, Next.js, Node.js, Python, and cloud-native tooling**.  
 
 I combine **engineering precision**, **clean UI/UX**, and **AI-accelerated development** to deliver high-performance applications.
 
@@ -26,15 +26,15 @@ I combine **engineering precision**, **clean UI/UX**, and **AI-accelerated devel
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=johnsonr84&show_icons=true&theme=tokyonight" 
-    width="33%" 
+    height="160"
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=johnsonr84&theme=tokyonight" 
-    width="33%" 
+    height="160"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonr84&layout=compact&theme=tokyonight" 
-    width="33%" 
+    height="160"
   />
 </p>
 
