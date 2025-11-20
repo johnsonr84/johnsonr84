@@ -11,11 +11,11 @@
 
 ## 👋 About Me
 
-I’m **Rob**, a Full Stack Engineer who builds **modern, scalable digital platforms and software** using technologies like **React, Next.js, Node.js, Python, and cloud-native tooling**.  
+I’m **Rob**, a Full-Stack Software Engineer who builds **modern, scalable digital platforms and software** using technologies like **React, Next.js, Node.js, Express.js, MongoDB, Python, and cloud-native tooling**.  
 
 I combine **engineering precision**, **clean UI/UX**, and **AI-accelerated development** to deliver high-performance applications.
 
-✨ **By day:** Software Engineer  
+✨ **By day:** Full-Stack Software Engineer  
 🌙 **By night:** Code Camp Teaching Specialist  
 ⚡ **Always:** Innovating, refining, and pushing the edges of what’s possible  
 
@@ -105,7 +105,7 @@ I combine **engineering precision**, **clean UI/UX**, and **AI-accelerated devel
 
 ## 🎓 Certifications
 
-| Full Stack Engineering | Front End Engineering |
+| Full-Stack Engineering | Front-End Engineering |
 |------------------------|------------------------|
 | <img src="uofutah.png" height="170"/> | <img src="iron-yard.png" height="170"/> |
 
@@ -118,7 +118,7 @@ I combine **engineering precision**, **clean UI/UX**, and **AI-accelerated devel
 
 ## 🤝 Let’s Work Together
 
-If you're looking for a Software Engineer who is:
+If you're looking for a Full-Stack Software Engineer who is:
 
 ✅ **Deeply technical**  
 ✅ **AI-accelerated**  
