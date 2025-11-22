@@ -64,8 +64,7 @@ I combine **engineering precision**, **clean UI/UX**, and **AI-accelerated devel
 ---
 
 ## ⚙️ Back-End Development
-**Node.js • Express.js • Python (Flask/FastAPI) • C# • .NET • Blazor • Razor Pages • Serverless Functions • AWS Lambda • Microservices • MVC • WebSockets**  
-**Performance Tuning • Caching Layers**
+**Node.js • Express.js • Python (Flask/FastAPI) • C# • .NET • Blazor • Razor Pages • Serverless Functions • AWS Lambda • Microservices • MVC • WebSockets • Performance Tuning • Caching Layers**
 
 ---
 
