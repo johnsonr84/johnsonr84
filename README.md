@@ -53,48 +53,39 @@ I combine **engineering precision**, **clean UI/UX**, and **AI-accelerated devel
 ---
 
 ## 🗄️ Databases & Data Handling
-**MongoDB • PostgreSQL • MySQL • NoSQL • Redis • Firebase**  
-**Mongoose • Sequelize • Prisma • Query Optimization • Schema Design**
+**MongoDB • PostgreSQL • MySQL • NoSQL • Redis • Firebase • Mongoose • Sequelize • Prisma • Query Optimization • Schema Design**
 
 ---
 
 ## 🎨 Front-End & UI Development
-**React.js • Next.js • Tailwind CSS • Material UI • Chakra UI • Shadcn UI • Bootstrap**  
-**Styled Components • Framer Motion • Three.js • Accessibility (a11y)**  
-**SEO Optimization • Responsive UI • Component Architecture**
+**React.js • Next.js • Tailwind CSS • Material UI • Chakra UI • Shadcn UI • Bootstrap • Styled Components • Framer Motion • Three.js**
+**Accessibility (a11y) • SEO Optimization • Responsive UI • Component Architecture**
 
 ---
 
 ## ⚙️ Back-End Development
-**Node.js • Express.js • Python (Flask/FastAPI)**  
-**C# • .NET • Blazor • Razor Pages**  
-**Serverless Functions • AWS Lambda • Microservices • MVC • WebSockets**  
+**Node.js • Express.js • Python (Flask/FastAPI) • C# • .NET • Blazor • Razor Pages • Serverless Functions • AWS Lambda • Microservices • MVC • WebSockets**  
 **Performance Tuning • Caching Layers**
 
 ---
 
 ## 🔌 API Development & Integration
-**REST APIs • GraphQL • Apollo Client/Server**  
-**OAuth2 • JWT Auth • Axios/Fetch**  
-**Mapbox API • Geospatial Data Visualization**
+**REST APIs • GraphQL • Apollo Client/Server • OAuth2 • JWT Auth • Axios/Fetch • Mapbox API • Geospatial Data Visualization**
 
 ---
 
 ## 🛠️ DevOps, Version Control & Collaboration
-**Git • GitHub • GitLab • Docker • CI/CD (GitHub Actions, CircleCI)**  
-**Agile • Jira • Branching Strategies • Code Reviews • VS Code**
+**Git • GitHub • GitLab • Docker • CI/CD (GitHub Actions, CircleCI) • Agile • Jira • Branching Strategies • Code Reviews • VS Code**
 
 ---
 
 ## 🎨 UI/UX & Design Collaboration
-**Figma • Adobe XD • Illustrator • Photoshop**  
-**Wireframing • Prototyping • Accessibility • Design Systems • UX Optimization**
+**Figma • Adobe XD • Illustrator • Photoshop • Wireframing • Prototyping • Accessibility • Design Systems • UX Optimization**
 
 ---
 
 ## ☁️ Cloud & Deployment
-**AWS (S3, Lambda, EC2) • Vercel • Netlify • Firebase • Cloudflare • Hostinger**  
-**Cloudinary • DNS Management • Serverless Deployment**
+**AWS (S3, Lambda, EC2) • Vercel • Netlify • Firebase • Cloudflare • Hostinger • Cloudinary • DNS Management • Serverless Deployment**
 
 ---
 
