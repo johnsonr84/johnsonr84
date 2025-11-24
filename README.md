@@ -58,7 +58,7 @@ I combine **engineering precision**, **clean UI/UX**, and **AI-accelerated devel
 ---
 
 ## 🎨 Front-End & UI Development
-**React.js • Next.js • Tailwind CSS • Material UI • Chakra UI • Shadcn UI • Bootstrap • Styled Components • Framer Motion • Three.js**
+**React.js • Next.js • Tailwind CSS • Bootstrap • Material UI • Chakra UI • Shadcn UI •  Styled Components • Framer Motion • Three.js**
 **Accessibility (a11y) • SEO Optimization • Responsive UI • Component Architecture**
 
 ---
