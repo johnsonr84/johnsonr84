@@ -26,15 +26,15 @@ I combine **engineering precision**, **clean UI/UX**, and **AI-accelerated devel
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=johnsonr84&show_icons=true&theme=tokyonight" 
-    height="160"
+    width="33%"
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=johnsonr84&theme=tokyonight" 
-    height="160"
+    width="33%"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonr84&layout=compact&theme=tokyonight" 
-    height="160"
+    width="33%"
   />
 </p>
 
