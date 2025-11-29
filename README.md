@@ -23,20 +23,13 @@ I combine **engineering precision**, **clean UI/UX**, and **AI-accelerated devel
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=johnsonr84&show_icons=true&theme=tokyonight" 
-    width="33%"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=johnsonr84&theme=tokyonight" 
-    width="33%"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonr84&layout=compact&theme=tokyonight" 
-    width="33%"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=johnsonr84&show_icons=true&theme=tokyonight" width="100%"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=johnsonr84&theme=tokyonight" width="100%"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonr84&layout=compact&theme=tokyonight" width="100%"/></td>
+  </tr>
+</table>
 
 ---
 
