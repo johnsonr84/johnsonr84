@@ -16,7 +16,7 @@ I’m **Rob**, a Full-Stack Software Engineer who builds **modern, scalable digi
 I combine **engineering precision**, **clean UI/UX**, and **AI-accelerated development** to deliver high-performance applications.
 
 ✨ **By day:** Full-Stack Software Engineer  
-//🌙 **By night:** Code Camp Teaching Specialist//  
+🌙 **By night:** Code Camp Teaching Specialist
 ⚡ **Always:** Innovating, refining, and pushing the edges of what’s possible  
 
 ---
