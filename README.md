@@ -24,24 +24,27 @@ I combine **engineering precision**, **clean UI/UX**, and **AI-accelerated devel
 # 📊 GitHub Stats
 
 <p align="center">
-  <!-- TOP: Streak (bigger, single row) -->
+  <!-- TOP: Streak (large) -->
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=johnsonr84&theme=tokyonight"
     width="85%"
+    alt="GitHub Streak Stats"
   />
 </p>
 
 <p align="center">
-  <!-- BOTTOM LEFT: General stats -->
+  <!-- BOTTOM LEFT: Main stats -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=johnsonr84&show_icons=true&theme=tokyonight"
-    width="40%"
+    width="48%"
+    alt="GitHub Stats"
   />
 
   <!-- BOTTOM RIGHT: Top languages -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonr84&layout=compact&theme=tokyonight"
-    width="40%"
+    width="48%"
+    alt="Top Languages"
   />
 </p>
 
