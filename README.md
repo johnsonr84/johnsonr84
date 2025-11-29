@@ -41,11 +41,10 @@ I combine **engineering precision**, **clean UI/UX**, and **AI-accelerated devel
   />
 
   <!-- BOTTOM RIGHT: Top languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonr84&layout=compact&theme=tokyonight"
-    width="48%"
-    alt="Top Languages"
-  />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=johnsonr84&show_icons=true&theme=tokyonight&cache_seconds=86400"
+  width="48%"
+/>
 </p>
 
 ---
