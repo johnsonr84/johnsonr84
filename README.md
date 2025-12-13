@@ -11,7 +11,7 @@
 
 ## 👋 About Me
 
-I’m **Rob**, a Full-Stack Software Engineer who builds **modern, scalable digital platforms and software** using technologies like **React, Next.js, Node.js, Express.js, MongoDB, Python, and cloud-native tooling**.  
+I’m **Rob**, a Full-Stack Software Engineer who builds **modern, scalable digital platforms and software** using technologies like **OpenAI, React, Next.js, Node.js, Express.js, MongoDB, and cloud-native tooling**.  
 
 I combine **engineering precision**, **clean UI/UX**, and **AI-accelerated development** to deliver high-performance applications.
 
@@ -60,7 +60,7 @@ I combine **engineering precision**, **clean UI/UX**, and **AI-accelerated devel
 ---
 
 ## 🛠️ DevOps, Version Control & Collaboration
-**Git • GitHub • GitLab • Docker • CI/CD (GitHub Actions, CircleCI) • Agile • Jira • Branching Strategies • Code Reviews • VS Code**
+**Git • GitHub • GitLab • Docker • CI/CD (GitHub Actions, CircleCI) • Agile • Jira • Branching Strategies • Code Reviews • Cursor • Warp • VS Code**
 
 ---
 
