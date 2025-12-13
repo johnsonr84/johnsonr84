@@ -1,8 +1,8 @@
-name: GitHub Profile Summary Cards
+name: Generate GitHub Profile Stats
 
 on:
   schedule:
-    - cron: "0 8 * * *"   # daily
+    - cron: "0 8 * * *" # daily 8:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -14,10 +14,22 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate cards
+      - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
         with:
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: johnsonr84
+          # Optional: choose a theme (pick one)
+          # THEME: tokyo-night
+          # THEME: github_dark
+          # THEME: dracula
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: update profile stats" || exit 0
+          git push
 
