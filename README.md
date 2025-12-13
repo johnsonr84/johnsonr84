@@ -23,34 +23,11 @@ I combine **engineering precision**, **clean UI/UX**, and **AI-accelerated devel
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/main/profile-3d-contrib/profile-night-view.png"
-    width="85%"
-    alt="3D Contributions"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/main/profile-summary-card-output/tokyonight/0-profile-details.svg"
-    width="85%"
-    alt="Profile Details"
-  />
-</p>
+[![](https://raw.githubusercontent.com/johnsonr84/johnsonr84/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/johnsonr84/johnsonr84/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/johnsonr84/johnsonr84/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/johnsonr84/johnsonr84/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/johnsonr84/johnsonr84/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/main/profile-summary-card-output/tokyonight/3-stats.svg"
-    width="48%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"
-    width="48%"
-    alt="Top Languages"
-  />
-</p>
 
 
 
