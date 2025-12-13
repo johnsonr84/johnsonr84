@@ -23,7 +23,7 @@ I combine **engineering precision**, **clean UI/UX**, and **AI-accelerated devel
 
 # 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=johnsonr84&theme=tokyonight&cache_seconds=86400"
     width="85%"
@@ -43,6 +43,15 @@ I combine **engineering precision**, **clean UI/UX**, and **AI-accelerated devel
     width="48%"
     alt="Top Languages"
   />
+</p> -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/main/profile-3d-contrib/profile-night-view.png" width="85%" alt="3D Contributions" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/main/generated/overview.svg" width="48%" alt="GitHub Stats Overview" />
+  <img src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/main/generated/languages.svg" width="48%" alt="Top Languages" />
 </p>
 
 ---
