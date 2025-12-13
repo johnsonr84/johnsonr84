@@ -23,43 +23,31 @@ I combine **engineering precision**, **clean UI/UX**, and **AI-accelerated devel
 
 # 📊 GitHub Stats
 
-<!-- <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=johnsonr84&theme=tokyonight&cache_seconds=86400"
-    width="85%"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=johnsonr84&show_icons=true&theme=tokyonight&cache_seconds=86400"
-    width="48%"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonr84&layout=compact&theme=tokyonight&cache_seconds=86400"
-    width="48%"
-    alt="Top Languages"
-  />
-</p> -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/main/profile-3d-contrib/profile-night-view.png" width="85%" alt="3D Contributions" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/main/generated/overview.svg" width="48%" alt="GitHub Stats Overview" />
-  <img src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/main/generated/languages.svg" width="48%" alt="Top Languages" />
+  <img
+    src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/main/profile-summary-card-output/THEME/0-profile-details.svg"
+    width="85%"
+    alt="Profile Details"
+  />
 </p>
 
----
-
-<!-- ANIMATED SKILLS BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=5400&color=00FFAA&center=true&vCenter=true&width=700&lines=Technical+Skills+%26+Engineering+Specializations" />
+  <img
+    src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/main/profile-summary-card-output/THEME/3-stats.svg"
+    width="48%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://raw.githubusercontent.com/johnsonr84/johnsonr84/main/profile-summary-card-output/THEME/1-repos-per-language.svg"
+    width="48%"
+    alt="Top Languages"
+  />
 </p>
+
 
 # 🧠 Core Specializations
 
