@@ -17,7 +17,7 @@ I combine **engineering precision**, **clean UI/UX**, and **AI-accelerated devel
 
 ✨ **By day:** Full-Stack Software Engineer  
 🌙 **By night:** Code Camp Teaching Specialist
-⚡ **Always:** Innovating, refining, and pushing the edges of what’s possible  
+⚡️ **Always:** Innovating, refining, and pushing the edges of what’s possible  
 
 ---
 
