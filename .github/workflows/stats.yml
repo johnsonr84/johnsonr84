@@ -13,15 +13,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: johnsonr84
           # Optional: choose a theme (pick one)
-          # THEME: tokyo-night
+          THEME: tokyo-night
           # THEME: github_dark
           # THEME: dracula
 
@@ -30,6 +32,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
+          git commit -m "chore: update profile stats" || exit 0
+          git push
           git commit -m "chore: update profile stats" || exit 0
           git push
 
