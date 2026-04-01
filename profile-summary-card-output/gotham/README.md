@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/johnsonr84/johnsonr84/main/profile-summary-card-output/gotham/4-productive-time.svg)
+```
+
+    
